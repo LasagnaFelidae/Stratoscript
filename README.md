@@ -1,9 +1,9 @@
-![StratoScript Logo](https://i.imgur.com/7uBxcPW.png)
+![StratoScript Logo](https://i.imgur.com/XKQCLqu.png)
 Un fork du [Stratoscript](https://github.com/Stratospherent/Stratoscript), avec des ajouts QOL, car Strato n'est plus sur le forum pour les faire.
 
 Mettre à jour (lien pour boomers): [Installer](https://github.com/TabbyGarf/Stratoscript/raw/main/stratoscript.user.js)
 
-Pour mettre vos icones custom (Stylus est requis): [Changeur de logos Stratoscript](https://userstyles.world/style/14231/changeur-de-logos-stratoscript)
+Pour mettre vos icones custom (Stylus est requis): [Changeur de logos Avescript](https://userstyles.world/style/14231/changeur-de-logos-stratoscript)
 
 
 
