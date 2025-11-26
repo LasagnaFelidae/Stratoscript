@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Avescript, f.k.a. Stratoscript
-// @version      1.14.23.11
-// @description  1.14.23.11 > Changement de logo
+// @version      1.14.23.12
+// @description  1.14.23.12 > Changement de source
 // @author       Stratosphere, LasagnaFelidae
 // @match        https://avenoel.org/*
 // @icon         https://i.imgur.com/DJlmlib.png
 // @run-at       document-body
 // @grant        GM_xmlhttpRequest
-// @updateURL    https://raw.githubusercontent.com/TabbyGarf/Stratoscript/main/stratoscript.user.js
-// @downloadURL  https://raw.githubusercontent.com/TabbyGarf/Stratoscript/main/stratoscript.user.js
+// @updateURL    https://raw.githubusercontent.com/LasagnaFelidae/Stratoscript/main/stratoscript.user.js
+// @downloadURL  https://raw.githubusercontent.com/LasagnaFelidae/Stratoscript/main/stratoscript.user.js
 // ==/UserScript==
 
 /* jshint esversion: 8 */
@@ -28,7 +28,7 @@
     var litter = false;
     let ssDatabase;
     const pseudoimgTag = document.querySelector('.navbar-user-avatar');
-    const version = '1.14.23.11';
+    const version = '1.14.23.12';
 
     /* ==========================================================
     |                                                           |
@@ -4120,5 +4120,6 @@ async function identifyTrack() {
     };
 
 } )();
+
 
 
