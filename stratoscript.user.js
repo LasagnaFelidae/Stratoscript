@@ -2,7 +2,7 @@
 // @name         Avescript, f.k.a. Stratoscript
 // @version      1.14.23.11
 // @description  1.14.23.11 > Changement de logo
-// @author       Stratosphere, TabbyGarf
+// @author       Stratosphere, LasagnaFelidae
 // @match        https://avenoel.org/*
 // @icon         https://i.imgur.com/DJlmlib.png
 // @run-at       document-body
@@ -4120,4 +4120,5 @@ async function identifyTrack() {
     };
 
 } )();
+
 
